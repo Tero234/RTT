@@ -1,0 +1,22 @@
+2024-04-06 13:55:29 INFO (main:55) Сидорова Юлия И903Б
+2024-04-06 13:55:29 INFO (consumer:17) W1
+2024-04-06 13:55:29 INFO (consumer:20) W2
+2024-04-06 13:55:30 INFO (producer:36) Полученные producer данные от h/w = 0 
+2024-04-06 13:55:30 INFO (producer:38) WP1
+2024-04-06 13:55:30 INFO (producer:46) WP3
+2024-04-06 13:55:30 INFO (consumer:22) W3
+2024-04-06 13:55:30 INFO (consumer:24) Полученные consumer данные = 1 
+2024-04-06 13:55:30 INFO (consumer:17) W1
+2024-04-06 13:55:30 INFO (consumer:20) W2
+2024-04-06 13:55:31 INFO (producer:36) Полученные producer данные от h/w = 1 
+2024-04-06 13:55:31 INFO (producer:38) WP1
+2024-04-06 13:55:31 INFO (producer:46) WP3
+2024-04-06 13:55:31 INFO (consumer:22) W3
+2024-04-06 13:55:31 INFO (consumer:24) Полученные consumer данные = 2 
+2024-04-06 13:55:31 INFO (consumer:17) W1
+2024-04-06 13:55:31 INFO (consumer:20) W2
+2024-04-06 13:55:32 INFO (producer:36) Полученные producer данные от h/w = 2 
+2024-04-06 13:55:32 INFO (producer:38) WP1
+2024-04-06 13:55:32 INFO (producer:46) WP3
+2024-04-06 13:55:32 INFO (consumer:22) W3
+2024-04-06 13:55:32 INFO (consumer:24) Полученные consumer данные = 3 
